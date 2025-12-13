@@ -1,7 +1,5 @@
 # This was the little game I made throughout November to learn to use Unity and C#.
 
-I didn't quite understand the idea of commits over time. I didn't think that showing my learning of Unity counted as something I should document during the semester.
-
 I begun this tutorial in Late October, 2025 and it took me until Mid November, 2025.
 
 As I cannot post this pre-made Unity File into the repository, I'll provide photo screenshot evidence that I worked on it.
